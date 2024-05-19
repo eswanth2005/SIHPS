@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:8-5-2024
-## Register Number:212223040060
-## Name:HARIPRASHAAD RA
+## Register Number:212223040046
+## Name:ESWANTH KUMAR K
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
